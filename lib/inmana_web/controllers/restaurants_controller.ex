@@ -1,4 +1,4 @@
-defmodule InmanaWeb.RestaurantController do
+defmodule InmanaWeb.RestaurantsController do
   use InmanaWeb, :controller
 
   alias Inmana.Restaurant
